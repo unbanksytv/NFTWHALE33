@@ -10,7 +10,6 @@ import goblin from "./images/goblin.png";
 import impostors from "./images/impostors.png";
 import mfers from "./images/mfers.png";
 import punks from "./images/punks.png";
-import clone from "clone";
 
 export const allCollections =[
     {
